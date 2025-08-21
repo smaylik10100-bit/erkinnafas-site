@@ -92,6 +92,8 @@ export default function App() {
           <div id="video" className="card videoCard" style={{height:320, padding:0, overflow:"hidden"}}>
             <video
               src="/clinic-video.mp4"
+              poster="/poster.jpg"
+              preload="metadata"
               autoPlay
               muted
               loop

@@ -1,8 +1,8 @@
 export const translations = {
   uz: {
-    tagline: "NaFasingizga erkinlik bag'ishlaymiz!",
-    hero_slogan: "ЭРКИН НАФАС – Нафасингизга эркинлик бағишлаймиз!",
-    hero_desc: "Пульмонолог ва терапевт шифокорларимиз 24 соат хизматингизда!",
+    tagline: "Nafasingizga erkinlik bag\'ishlaymiz!",
+    hero_slogan: "ERKIN NAFAS – Nafasingizga erkinlik bag\'ishlaymiz!",
+    hero_desc: "Pulmonolog va terapevt shifokorlarimiz 24 soat xizmatda!",
     cta_book: "Qabulga yozilish",
     cta_call: "Qo'ng'iroq qilish",
     badge_247: "24/7 xizmat",
